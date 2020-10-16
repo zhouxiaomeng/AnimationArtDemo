@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo1"
+        android:text="DEMO1"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo2"
+        android:text="DEMO2"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo3"
+        android:text="DEMO3"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo4"
+        android:text="DEMO4"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo5"
+        android:text="DEMO5"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo6"
+        android:text="DEMO6"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo7"
+        android:text="DEMO7"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo8"
+        android:text="DEMO8"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo9"
+        android:text="DEMO9"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#E6E6FA"
+        android:gravity="center"
+        android:onClick="demo10"
+        android:text="DEMO10"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+</LinearLayout>
